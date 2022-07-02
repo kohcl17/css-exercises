@@ -1,0 +1,20 @@
+.allp {
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.alldiv#div1 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.allp#p2 {
+    font-size: 24px;
+}
+
+.alldiv#div2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
